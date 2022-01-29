@@ -6,7 +6,10 @@ def main_wrapper():
 
     fetcher.states_accessor()
 
+    flight_list
+
     print("This is the end of out python project.")
+
 
 
 if __name__ == "__main__":
