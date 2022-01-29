@@ -23,3 +23,6 @@ def tracks_accessor():
         raise RuntimeError(r.json())
     # print(r.json())
     # BUT this is de-activated :(
+
+def flights states_accessor():
+     url = f"{ROOT_URL}"
